@@ -5,7 +5,7 @@
 
 ## Current Work
 
-- I’m currently working on [Antlrvsix][website]!
+- I’m currently working on [Antlrvsix][website]
 - 2020/1 Goals: Increase productivity by 2x's
 
 ### Connect with me:
@@ -68,7 +68,8 @@
 
 </details>
 
-[website]: https://codinggorilla.com
+[antlrvsix]: https://github.com/kaby76/AntlrVSIX
+[website]: http://codinggorilla.com
 [twitter]: https://twitter.com/KenDomino
 [linkedin]: https://linkedin.com/in/kenneth-e-domino
 
