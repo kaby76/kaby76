@@ -1,4 +1,4 @@
-### Ken Domino - aka [kaby76][github], aka [The Coding Gorilla][codinggorilla]
+### Ken Domino - [kaby76][github], [The Coding Gorilla][codinggorilla]
 
 [![Codinggorilla](https://img.shields.io/website?label=codinggorilla.com&style=for-the-badge&url=http%3A%2F%2Fcodinggorilla.com)](http://codinggorilla.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KenDomino?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkaby76&screen_name=kaby76)
@@ -6,7 +6,6 @@
 ## Current Work
 
 - I’m currently working on [Antlrvsix][antlrvsix]
-- 2020/1 Goals: Increase productivity by 2x's
 
 ### Connect with me:
 
@@ -16,41 +15,23 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/80584.jpg" />](https://www.antlr.org/)
-[<img align="left" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/NET_Core_Logo.svg" />](https://dotnet.microsoft.com/)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/visual-studio-code.png" />](https://code.visualstudio.com/)
+
+[<img align="left" alt="Antlr" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/80584.jpg" />](https://www.antlr.org/)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-git.svg" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-github.svg" />](https://github.com/)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-intellij-idea.svg" />](https://www.jetbrains.com/idea/)
-
-
+[<img align="left" alt="Google Play" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-google-play.svg" />](https://play.google.com/store)
+[<img align="left" alt="Intellij-Idea" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-intellij-idea.svg" />](https://www.jetbrains.com/idea/)
+[<img align="left" alt="NET Core" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/NET_Core_Logo.svg" />](https://dotnet.microsoft.com/)
+[<img align="left" alt="Stack Overflow" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-stack-overflow.svg" />](https://stackoverflow.com/)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/visual-studio-code.png" />](https://visualstudio.microsoft.com/vs/)
+[<img align="left" alt="Visual Studio IDE" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/VSWinIcon_100x.png" />](https://visualstudio.microsoft.com/vs/)
+[<img align="left" alt="Windows 10" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-windows-10.svg" />](https://www.microsoft.com/en-us/windows/)
+[<img align="left" alt="Xamarin" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-xamarin.svg" />](https://dotnet.microsoft.com/apps/xamarin)
 
 <br />
 <br />
 
 ---
-
-### 📺 Latest Tweets
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: Github Stats</summary>
