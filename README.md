@@ -21,12 +21,17 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-github.svg" />](https://github.com/)
 [<img align="left" alt="Google Play" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-google-play.svg" />](https://play.google.com/store)
 [<img align="left" alt="Intellij-Idea" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-intellij-idea.svg" />](https://www.jetbrains.com/idea/)
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-java.svg" />](https://www.java.com/en/)
 [<img align="left" alt="NET Core" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/NET_Core_Logo.svg" />](https://dotnet.microsoft.com/)
 [<img align="left" alt="Stack Overflow" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-stack-overflow.svg" />](https://stackoverflow.com/)
+[<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/cof_orange_hex.svg" />](https://ubuntu.com/)
+[<img align="left" alt="VirtualBox" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/virtualbox-icon.svg" />](https://www.virtualbox.org/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/visual-studio-code.png" />](https://visualstudio.microsoft.com/vs/)
 [<img align="left" alt="Visual Studio IDE" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/VSWinIcon_100x.png" />](https://visualstudio.microsoft.com/vs/)
 [<img align="left" alt="Windows 10" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-windows-10.svg" />](https://www.microsoft.com/en-us/windows/)
 [<img align="left" alt="Xamarin" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-xamarin.svg" />](https://dotnet.microsoft.com/apps/xamarin)
+
+
 
 <br />
 <br />
