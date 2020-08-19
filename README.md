@@ -16,7 +16,7 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/80584.jpg"](https://www.antlr.org/)
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/80584.jpg" />](https://www.antlr.org/)
 [<img align="left" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/NET_Core_Logo.svg" />](https://dotnet.microsoft.com/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/visual-studio-code.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-git.svg" />](https://git-scm.com/)
