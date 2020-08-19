@@ -17,12 +17,15 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Antlr" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/80584.jpg" />](https://www.antlr.org/)
+[<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/full_colored_dark.svg" />](https://www.gnu.org/software/bash/)
+[<img align="left" alt="Emacs" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/EmacsIcon.svg" />](https://www.gnu.org/software/emacs/)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-git.svg" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-github.svg" />](https://github.com/)
 [<img align="left" alt="Google Play" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-google-play.svg" />](https://play.google.com/store)
 [<img align="left" alt="Intellij-Idea" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-intellij-idea.svg" />](https://www.jetbrains.com/idea/)
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-java.svg" />](https://www.java.com/en/)
 [<img align="left" alt="NET Core" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/NET_Core_Logo.svg" />](https://dotnet.microsoft.com/)
+[<img align="left" alt="Perl" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/perl-icon.svg" />](https://www.perl.org/)
 [<img align="left" alt="Stack Overflow" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-stack-overflow.svg" />](https://stackoverflow.com/)
 [<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/cof_orange_hex.svg" />](https://ubuntu.com/)
 [<img align="left" alt="VirtualBox" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/virtualbox-icon.svg" />](https://www.virtualbox.org/)
