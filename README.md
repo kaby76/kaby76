@@ -30,6 +30,7 @@
 [<img align="left" alt="Perl" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/perl-icon.svg" />](https://www.perl.org/)
 [<img align="left" alt="Stack Overflow" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-stack-overflow.svg" />](https://stackoverflow.com/)
 [<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/cof_orange_hex.svg" />](https://ubuntu.com/)
+[<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/Icon-Vim.svg" />](https://www.vim.org/)
 [<img align="left" alt="VirtualBox" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/virtualbox-icon.svg" />](https://www.virtualbox.org/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/visual-studio-code.png" />](https://visualstudio.microsoft.com/vs/)
 [<img align="left" alt="Visual Studio IDE" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/VSWinIcon_100x.png" />](https://visualstudio.microsoft.com/vs/)
