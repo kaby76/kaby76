@@ -5,7 +5,7 @@
 
 ## Current Work
 
-- I’m currently working on [Antlrvsix][antlrvsix]
+- Scraping the [online Java language spec grammar](https://docs.oracle.com/javase/specs/jls/se14/html/index.html), then using [Antlrvsix][antlrvsix] to perform automated transformations to optimize the grammar for parsing speed with [Antlr](https://www.antlr.org).
 
 ### Connect with me:
 
