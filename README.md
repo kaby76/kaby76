@@ -16,6 +16,7 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/Android_robot.svg" />](https://www.android.com/)
 [<img align="left" alt="Antlr" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/80584.jpg" />](https://www.antlr.org/)
 [<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/full_colored_dark.svg" />](https://www.gnu.org/software/bash/)
 [<img align="left" alt="Eclipse" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/Eclipse2014_RGB-new.svg" />](https://www.eclipse.org/)
