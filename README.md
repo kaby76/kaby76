@@ -18,6 +18,7 @@
 
 [<img align="left" alt="Antlr" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/80584.jpg" />](https://www.antlr.org/)
 [<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/full_colored_dark.svg" />](https://www.gnu.org/software/bash/)
+[<img align="left" alt="Eclipse" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/Eclipse2014_RGB-new.svg" />](https://www.eclipse.org/)
 [<img align="left" alt="Emacs" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/EmacsIcon.svg" />](https://www.gnu.org/software/emacs/)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-git.svg" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-github.svg" />](https://github.com/)
