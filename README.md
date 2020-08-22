@@ -22,6 +22,8 @@
 [<img align="left" alt="Java" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-java.svg" />](https://www.java.com/en/)
 [<img align="left" alt="Perl" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/perl-icon.svg" />](https://www.perl.org/)
 
+<br />
+
 ### Tools
 
 [<img align="left" alt="Antlr" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/80584.jpg" />](https://www.antlr.org/)
@@ -33,6 +35,8 @@
 [<img align="left" alt="VirtualBox" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/virtualbox-icon.svg" />](https://www.virtualbox.org/)
 [<img align="left" alt="Xamarin" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-xamarin.svg" />](https://dotnet.microsoft.com/apps/xamarin)
 
+<br />
+
 #### Editors
 
 [<img align="left" alt="Eclipse" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/Eclipse2014_RGB-new.svg" />](https://www.eclipse.org/)
@@ -42,11 +46,15 @@
 [<img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/visual-studio-code.png" />](https://visualstudio.microsoft.com/vs/)
 [<img align="left" alt="Visual Studio IDE" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/VSWinIcon_100x.png" />](https://visualstudio.microsoft.com/vs/)
 
+<br />
+
 ### Operating Systems
 
 [<img align="left" alt="Android" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/Android_robot.svg" />](https://www.android.com/)
 [<img align="left" alt="Ubuntu" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/cof_orange_hex.svg" />](https://ubuntu.com/)
 [<img align="left" alt="Windows 10" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-windows-10.svg" />](https://www.microsoft.com/en-us/windows/)
+
+<br />
 
 ### Online Presense
 
