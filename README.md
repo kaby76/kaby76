@@ -19,7 +19,7 @@
 [<img align="left" alt="Android" width="22px" src="https://raw.githubusercontent.com/kaby76/icons/master/Android_robot.svg" />](https://www.android.com/)
 [<img align="left" alt="Antlr" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/80584.jpg" />](https://www.antlr.org/)
 [<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/full_colored_dark.svg" />](https://www.gnu.org/software/bash/)
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/c-programming-language-seeklogo.svg" />](https://web.archive.org/web/20181230041359if_/http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf)
+[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/c-programming-language-seeklogo.com.svg" />](https://web.archive.org/web/20181230041359if_/http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf)
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/c-plus-plus-programming-language.svg" />](https://web.archive.org/web/20170325025026/http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/n4660.pdf)
 [<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/c-sharp-programming-language.svg" />](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/)
 [<img align="left" alt="Eclipse" width="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/Eclipse2014_RGB-new.svg" />](https://www.eclipse.org/)
