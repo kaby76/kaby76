@@ -19,6 +19,7 @@
 [<img align="left" alt="C" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/c-programming-language-seeklogo.com.svg" />](https://web.archive.org/web/20181230041359if_/http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf)
 [<img align="left" alt="C++" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/c-plus-plus-programming-language.svg" />](https://web.archive.org/web/20170325025026/http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/n4660.pdf)
 [<img align="left" alt="C#" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/c-sharp-programming-language.svg" />](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/)
+[<img align="left" alt="Kotlin" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/kotlin-logo.svg" />](https://kotlinlang.org/)
 [<img align="left" alt="Java" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-java.svg" />](https://www.java.com/en/)
 [<img align="left" alt="Perl" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/perl-icon.svg" />](https://www.perl.org/)
 
@@ -37,7 +38,6 @@
 [<img align="left" alt="GitHub" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-github.svg" />](https://github.com/)
 [<img align="left" alt="Google Play" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-google-play.svg" />](https://play.google.com/store)
 [<img align="left" alt="Inkscape" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/inkscape-logo.svg" />](https://inkscape.org/)
-[<img align="left" alt="Kotlin" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/kotlin-logo.svg" />](https://kotlinlang.org/)
 [<img align="left" alt="NET Core" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/NET_Core_Logo.svg" />](https://dotnet.microsoft.com/)
 [<img align="left" alt="Resharper" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icon-resharper.svg" />](https://www.jetbrains.com/resharper/)
 [<img align="left" alt="VirtualBox" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/virtualbox-icon.svg" />](https://www.virtualbox.org/)
