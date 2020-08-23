@@ -30,11 +30,16 @@
 [<img align="left" alt="Bash" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/full_colored_dark.svg" />](https://www.gnu.org/software/bash/)
 [<img align="left" alt="Bison" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/Heckert_GNU_white.svg" />](https://en.wikipedia.org/wiki/GNU_Bison)
 [<img align="left" alt="Blender" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/blender_community_badge_orange.svg" />](https://www.blender.org/)
+[<img align="left" alt="dotCover" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icon-dotcover.svg" />](https://www.jetbrains.com/dotcover/)
+[<img align="left" alt="dotMemory" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icon-dotmemory.svg" />](https://www.jetbrains.com/dotmemory/)
+[<img align="left" alt="dotPeek" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icon-dotpeek.svg" />](https://www.jetbrains.com/dotpeek/)
 [<img align="left" alt="Git" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-git.svg" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-github.svg" />](https://github.com/)
 [<img align="left" alt="Google Play" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-google-play.svg" />](https://play.google.com/store)
 [<img align="left" alt="Inkscape" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/inkscape-logo.svg" />](https://inkscape.org/)
+[<img align="left" alt="Kotlin" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/kotlin-logo.svg" />](https://kotlinlang.org/)
 [<img align="left" alt="NET Core" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/NET_Core_Logo.svg" />](https://dotnet.microsoft.com/)
+[<img align="left" alt="Resharper" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icon-resharper.svg" />](https://www.jetbrains.com/resharper/)
 [<img align="left" alt="VirtualBox" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/virtualbox-icon.svg" />](https://www.virtualbox.org/)
 [<img align="left" alt="Xamarin" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-xamarin.svg" />](https://dotnet.microsoft.com/apps/xamarin)
 
@@ -44,10 +49,14 @@
 
 [<img align="left" alt="Eclipse" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/Eclipse2014_RGB-new.svg" />](https://www.eclipse.org/)
 [<img align="left" alt="Emacs" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/EmacsIcon.svg" />](https://www.gnu.org/software/emacs/)
-[<img align="left" alt="Intellij-Idea" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-intellij-idea.svg" />](https://www.jetbrains.com/idea/)
+[<img align="left" alt="Intellij-Idea" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icon-intellij-idea.svg" />](https://www.jetbrains.com/idea/)
+[<img align="left" alt="PhpStorm" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icon-phpstorm.svg" />](https://www.jetbrains.com/phpstorm/)
+[<img align="left" alt="PyCharm" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icon-pycharm.svg" />](https://www.jetbrains.com/pycharm/)
+[<img align="left" alt="Rider" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icon-rider.svg" />](https://www.jetbrains.com/rider/)
 [<img align="left" alt="Vim" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/Icon-Vim.svg" />](https://www.vim.org/)
 [<img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/visual-studio-code.png" />](https://visualstudio.microsoft.com/vs/)
 [<img align="left" alt="Visual Studio IDE" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/VSWinIcon_100x.png" />](https://visualstudio.microsoft.com/vs/)
+[<img align="left" alt="Webstorm" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icon-webstorm.svg" />](https://www.jetbrains.com/webstorm/)
 
 <br />
 
