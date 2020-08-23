@@ -45,7 +45,7 @@
 
 <br />
 
-#### Editors
+### Editors
 
 [<img align="left" alt="Eclipse" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/Eclipse2014_RGB-new.svg" />](https://www.eclipse.org/)
 [<img align="left" alt="Emacs" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/EmacsIcon.svg" />](https://www.gnu.org/software/emacs/)
