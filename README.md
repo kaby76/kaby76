@@ -22,6 +22,7 @@
 
 [<img align="left" alt="390" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-390.svg" />](https://www.ibm.com/it-infrastructure/z/hardware)
 [<img align="left" alt="6502" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-6502.svg" />](http://www.6502.org/)
+[<img align="left" alt="68k" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-68k.svg" />](http://www.freescale.com/files/archives/doc/ref_manual/M68000PRM.pdf)
 [<img align="left" alt="CIL" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-cil.svg" />](http://www.ecma-international.org/publications/standards/Ecma-335.htm)
 [<img align="left" alt="JVM" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-jvm.svg" />](https://docs.oracle.com/javase/specs/jvms/se14/html/index.html)
 [<img align="left" alt="PDP8" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-pdp8.svg" />](https://en.wikipedia.org/wiki/PDP-8)
