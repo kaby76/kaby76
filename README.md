@@ -13,6 +13,7 @@
 [<img align="left" alt="kenneth-e-domino | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <p />
+<br /><br /><br />
 
 ### Machine Instruction Sets
 
@@ -27,8 +28,8 @@
 [<img align="left" alt="x86" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-x86.svg" />](https://software.intel.com/content/www/us/en/develop/articles/intel-sdm.html#combined)
 [<img align="left" alt="z80" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-z80.svg" />](https://en.wikipedia.org/wiki/Zilog_Z80)
 
-<p />
-
+<p /><br /><br />
+<br />
 ### Languages
 
 [<img align="left" alt="C" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/c-programming-language-seeklogo.com.svg" />](https://web.archive.org/web/20181230041359if_/http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf)
@@ -38,7 +39,8 @@
 [<img align="left" alt="Java" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-java.svg" />](https://www.java.com/en/)
 [<img align="left" alt="Perl" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/perl-icon.svg" />](https://www.perl.org/)
 
-<p />
+<p /><br />
+<br /><br />
 
 ### Tools
 
@@ -58,7 +60,7 @@
 [<img align="left" alt="VirtualBox" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/virtualbox-icon.svg" />](https://www.virtualbox.org/)
 [<img align="left" alt="Xamarin" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-xamarin.svg" />](https://dotnet.microsoft.com/apps/xamarin)
 
-<p />
+<p /><br /><br /><br />
 
 ### Editors
 
@@ -75,7 +77,7 @@
 [<img align="left" alt="Visual Studio IDE" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/VSWinIcon_100x.png" />](https://visualstudio.microsoft.com/vs/)
 [<img align="left" alt="Webstorm" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icon-webstorm.svg" />](https://www.jetbrains.com/webstorm/)
 
-<p />
+<p /><br /><br /><br />
 
 ### Operating Systems
 
@@ -83,7 +85,8 @@
 [<img align="left" alt="Ubuntu" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/cof_orange_hex.svg" />](https://ubuntu.com/)
 [<img align="left" alt="Windows 10" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-windows-10.svg" />](https://www.microsoft.com/en-us/windows/)
 
-<p />
+<p /><br /><br />
+<br />
 
 ### Online Presense
 
@@ -91,7 +94,7 @@
 [<img align="left" alt="Reddit" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/reddit.svg" />](https://www.reddit.com/user/kendomino)
 [<img align="left" alt="Stack Overflow" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-stack-overflow.svg" />](https://stackoverflow.com/users/4779853/kaby76)
 
-<p />
+<p /><br /><br /><br />
 
 ---
 
