@@ -100,8 +100,9 @@
 
 <br />
 
-[<img align="left" alt="Stack Overflow" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-stack-overflow.svg" />](https://stackoverflow.com/)
 [<img align="left" alt="Gitter" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/gitter.svg" />](https://gitter.im/Microsoft/extendvs)
+[<img align="left" alt="Reddit" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/reddit.svg" />](https://www.reddit.com/user/kendomino)
+[<img align="left" alt="Stack Overflow" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-stack-overflow.svg" />](https://stackoverflow.com/users/4779853/kaby76)
 
 <br />
 <br />
