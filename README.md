@@ -14,6 +14,20 @@
 
 <br />
 
+### Machine Instruction Sets
+
+[<img align="left" alt="390" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-390.svg" />](https://www.ibm.com/it-infrastructure/z/hardware)
+[<img align="left" alt="6502" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-6502.svg" />](http://www.6502.org/)
+[<img align="left" alt="CIL" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-cil.svg" />](http://www.ecma-international.org/publications/standards/Ecma-335.htm)
+[<img align="left" alt="JVM" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-jvm.svg" />](https://docs.oracle.com/javase/specs/jvms/se14/html/index.html)
+[<img align="left" alt="PDP8" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-pdp8.svg" />](https://en.wikipedia.org/wiki/PDP-8)
+[<img align="left" alt="PTX" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-ptx.svg" />](https://docs.nvidia.com/cuda/pdf/ptx_isa_7.0.pdf)
+[<img align="left" alt="Vax" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-vax.svg" />](https://en.wikipedia.org/wiki/MicroVAX_78032)
+[<img align="left" alt="x86" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-x86.svg" />](https://software.intel.com/content/www/us/en/develop/articles/intel-sdm.html#combined)
+[<img align="left" alt="z80" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-z80.svg" />](https://en.wikipedia.org/wiki/Zilog_Z80)
+
+<br />
+
 ### Languages
 
 [<img align="left" alt="C" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/c-programming-language-seeklogo.com.svg" />](https://web.archive.org/web/20181230041359if_/http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf)
@@ -72,6 +86,7 @@
 
 ### Online Presense
 
+[<img align="left" alt="Gitter" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/gitter.svg" />](https://gitter.im/Microsoft/extendvs)
 [<img align="left" alt="Stack Overflow" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-stack-overflow.svg" />](https://stackoverflow.com/)
 
 <br />
@@ -91,4 +106,3 @@
 [codinggorilla]: http://codinggorilla.com
 [twitter]: https://twitter.com/KenDomino
 [linkedin]: https://linkedin.com/in/kenneth-e-domino
-
