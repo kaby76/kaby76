@@ -12,8 +12,7 @@
 [<img align="left" alt="KenDomino | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="kenneth-e-domino | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
-<br />
+<p />
 
 ### Machine Instruction Sets
 
@@ -28,8 +27,7 @@
 [<img align="left" alt="x86" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-x86.svg" />](https://software.intel.com/content/www/us/en/develop/articles/intel-sdm.html#combined)
 [<img align="left" alt="z80" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-z80.svg" />](https://en.wikipedia.org/wiki/Zilog_Z80)
 
-<br />
-<br />
+<p />
 
 ### Languages
 
@@ -40,8 +38,7 @@
 [<img align="left" alt="Java" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-java.svg" />](https://www.java.com/en/)
 [<img align="left" alt="Perl" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/perl-icon.svg" />](https://www.perl.org/)
 
-<br />
-<br />
+<p />
 
 ### Tools
 
@@ -61,8 +58,7 @@
 [<img align="left" alt="VirtualBox" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/virtualbox-icon.svg" />](https://www.virtualbox.org/)
 [<img align="left" alt="Xamarin" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-xamarin.svg" />](https://dotnet.microsoft.com/apps/xamarin)
 
-<br />
-<br />
+<p />
 
 ### Editors
 
@@ -79,16 +75,15 @@
 [<img align="left" alt="Visual Studio IDE" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/VSWinIcon_100x.png" />](https://visualstudio.microsoft.com/vs/)
 [<img align="left" alt="Webstorm" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icon-webstorm.svg" />](https://www.jetbrains.com/webstorm/)
 
-<br />
-<br />
+<p />
 
 ### Operating Systems
 
 [<img align="left" alt="Android" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/Android_robot.svg" />](https://www.android.com/)
 [<img align="left" alt="Ubuntu" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/cof_orange_hex.svg" />](https://ubuntu.com/)
 [<img align="left" alt="Windows 10" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-windows-10.svg" />](https://www.microsoft.com/en-us/windows/)
-<br />
-<br />
+
+<p />
 
 ### Online Presense
 
@@ -96,8 +91,7 @@
 [<img align="left" alt="Reddit" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/reddit.svg" />](https://www.reddit.com/user/kendomino)
 [<img align="left" alt="Stack Overflow" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-stack-overflow.svg" />](https://stackoverflow.com/users/4779853/kaby76)
 
-<br />
-<br />
+<p />
 
 ---
 
