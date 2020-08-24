@@ -9,16 +9,13 @@
 
 ### Connect with me:
 
-<br />
-
 [<img align="left" alt="KenDomino | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="kenneth-e-domino | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+<br />
 
 ### Machine Instruction Sets
-
-<br />
 
 [<img align="left" alt="390" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-390.svg" />](https://www.ibm.com/it-infrastructure/z/hardware)
 [<img align="left" alt="6502" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-6502.svg" />](http://www.6502.org/)
@@ -32,10 +29,9 @@
 [<img align="left" alt="z80" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-z80.svg" />](https://en.wikipedia.org/wiki/Zilog_Z80)
 
 <br />
+<br />
 
 ### Languages
-
-<br />
 
 [<img align="left" alt="C" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/c-programming-language-seeklogo.com.svg" />](https://web.archive.org/web/20181230041359if_/http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf)
 [<img align="left" alt="C++" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/c-plus-plus-programming-language.svg" />](https://web.archive.org/web/20170325025026/http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/n4660.pdf)
@@ -45,10 +41,9 @@
 [<img align="left" alt="Perl" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/perl-icon.svg" />](https://www.perl.org/)
 
 <br />
+<br />
 
 ### Tools
-
-<br />
 
 [<img align="left" alt="Antlr" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/80584.jpg" />](https://www.antlr.org/)
 [<img align="left" alt="Bash" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/full_colored_dark.svg" />](https://www.gnu.org/software/bash/)
@@ -71,8 +66,6 @@
 
 ### Editors
 
-<br />
-
 [<img align="left" alt="Android Studio" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/android-studio-badge.svg" />](https://developer.android.com/studio)
 [<img align="left" alt="Eclipse" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/Eclipse2014_RGB-new.svg" />](https://www.eclipse.org/)
 [<img align="left" alt="Emacs" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/EmacsIcon.svg" />](https://www.gnu.org/software/emacs/)
@@ -91,16 +84,13 @@
 
 ### Operating Systems
 
-<br />
-
 [<img align="left" alt="Android" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/Android_robot.svg" />](https://www.android.com/)
 [<img align="left" alt="Ubuntu" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/cof_orange_hex.svg" />](https://ubuntu.com/)
 [<img align="left" alt="Windows 10" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-windows-10.svg" />](https://www.microsoft.com/en-us/windows/)
 <br />
+<br />
 
 ### Online Presense
-
-<br />
 
 [<img align="left" alt="Gitter" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/gitter.svg" />](https://gitter.im/Microsoft/extendvs)
 [<img align="left" alt="Reddit" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/reddit.svg" />](https://www.reddit.com/user/kendomino)
