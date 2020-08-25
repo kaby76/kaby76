@@ -31,7 +31,7 @@
 
 ### Languages
 
-[<img align="left" alt="APL" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/apl.svg" />](https://en.wikipedia.org/wiki/APL_(programming_language))
+[<img align="left" alt="APL" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/apl_icon_132641.svg" />](https://en.wikipedia.org/wiki/APL_(programming_language))
 [<img align="left" alt="Fortran" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/fortran.svg" />](https://fortran-lang.org/)
 [<img align="left" alt="Algol W" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/algol.svg" />](https://en.wikipedia.org/wiki/ALGOL_W)
 [<img align="left" alt="BCPL" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/bcpl.svg" />](https://en.wikipedia.org/wiki/BCPL)
