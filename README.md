@@ -37,7 +37,7 @@
 [<img align="left" alt="BCPL" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/bcpl.svg" />](https://en.wikipedia.org/wiki/BCPL)
 [<img align="left" alt="Lisp" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/lisp.svg" />](https://en.wikipedia.org/wiki/Lisp_(programming_language)#cite_note-1.5_manual-16)
 [<img align="left" alt="C" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/c-programming-language-seeklogo.com.svg" />](https://web.archive.org/web/20181230041359if_/http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf)
-[<img align="left" alt="Pascal" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/pascal.svg" />](https://en.wikipedia.org/wiki/UCSD_Pascal)
+[<img align="left" alt="Pascal" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/UCSD_p-System.svg" />](https://en.wikipedia.org/wiki/UCSD_Pascal)
 [<img align="left" alt="Perl" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/perl-icon.svg" />](https://www.perl.org/)
 [<img align="left" alt="C++" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/c-plus-plus-programming-language.svg" />](https://web.archive.org/web/20170325025026/http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/n4660.pdf)
 [<img align="left" alt="Java" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-java.svg" />](https://www.java.com/en/)
