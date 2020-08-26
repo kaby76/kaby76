@@ -16,33 +16,33 @@
 
 ### Machine Instruction Sets
 
-[<img align="left" alt="390" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-390.svg" />](https://www.ibm.com/it-infrastructure/z/hardware)
-[<img align="left" alt="6502" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-6502.svg" />](http://www.6502.org/)
-[<img align="left" alt="68k" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-68k.svg" />](http://www.freescale.com/files/archives/doc/ref_manual/M68000PRM.pdf)
 [<img align="left" alt="CIL" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-cil.svg" />](http://www.ecma-international.org/publications/standards/Ecma-335.htm)
-[<img align="left" alt="JVM" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-jvm.svg" />](https://docs.oracle.com/javase/specs/jvms/se14/html/index.html)
-[<img align="left" alt="PDP8" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-pdp8.svg" />](https://en.wikipedia.org/wiki/PDP-8)
 [<img align="left" alt="PTX" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-ptx.svg" />](https://docs.nvidia.com/cuda/pdf/ptx_isa_7.0.pdf)
-[<img align="left" alt="Vax" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-vax.svg" />](https://en.wikipedia.org/wiki/MicroVAX_78032)
+[<img align="left" alt="JVM" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-jvm.svg" />](https://docs.oracle.com/javase/specs/jvms/se14/html/index.html)
+[<img align="left" alt="390" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-390.svg" />](https://www.ibm.com/it-infrastructure/z/hardware)
+[<img align="left" alt="68k" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-68k.svg" />](http://www.freescale.com/files/archives/doc/ref_manual/M68000PRM.pdf)
 [<img align="left" alt="x86" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-x86.svg" />](https://software.intel.com/content/www/us/en/develop/articles/intel-sdm.html#combined)
+[<img align="left" alt="Vax" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-vax.svg" />](https://en.wikipedia.org/wiki/MicroVAX_78032)
 [<img align="left" alt="z80" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-z80.svg" />](https://en.wikipedia.org/wiki/Zilog_Z80)
+[<img align="left" alt="6502" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-6502.svg" />](http://www.6502.org/)
+[<img align="left" alt="PDP8" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/machine-pdp8.svg" />](https://en.wikipedia.org/wiki/PDP-8)
 
 <p /><br /><br /><br />
 
 ### Languages
 
-[<img align="left" alt="APL" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/apl_icon_132641.svg" />](https://en.wikipedia.org/wiki/APL_(programming_language))
-[<img align="left" alt="Fortran" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/fortran.svg" />](https://fortran-lang.org/)
-[<img align="left" alt="Algol W" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/algol.svg" />](https://en.wikipedia.org/wiki/ALGOL_W)
-[<img align="left" alt="BCPL" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/bcpl.svg" />](https://en.wikipedia.org/wiki/BCPL)
-[<img align="left" alt="Lisp" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/lisp.svg" />](https://en.wikipedia.org/wiki/Lisp_(programming_language)#cite_note-1.5_manual-16)
-[<img align="left" alt="C" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/c-programming-language-seeklogo.com.svg" />](https://web.archive.org/web/20181230041359if_/http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf)
-[<img align="left" alt="Pascal" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/UCSD_p-System.svg" />](https://en.wikipedia.org/wiki/UCSD_Pascal)
-[<img align="left" alt="Perl" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/perl-icon.svg" />](https://www.perl.org/)
-[<img align="left" alt="C++" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/c-plus-plus-programming-language.svg" />](https://web.archive.org/web/20170325025026/http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/n4660.pdf)
-[<img align="left" alt="Java" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-java.svg" />](https://www.java.com/en/)
-[<img align="left" alt="C#" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/c-sharp-programming-language.svg" />](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/)
 [<img align="left" alt="Kotlin" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/kotlin-logo.svg" />](https://kotlinlang.org/)
+[<img align="left" alt="C#" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/c-sharp-programming-language.svg" />](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/)
+[<img align="left" alt="Java" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/icons8-java.svg" />](https://www.java.com/en/)
+[<img align="left" alt="C++" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/c-plus-plus-programming-language.svg" />](https://web.archive.org/web/20170325025026/http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/n4660.pdf)
+[<img align="left" alt="Perl" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/perl-icon.svg" />](https://www.perl.org/)
+[<img align="left" alt="Pascal" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/UCSD_p-System.svg" />](https://en.wikipedia.org/wiki/UCSD_Pascal)
+[<img align="left" alt="C" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/c-programming-language-seeklogo.com.svg" />](https://web.archive.org/web/20181230041359if_/http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf)
+[<img align="left" alt="Lisp" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/lisp.svg" />](https://en.wikipedia.org/wiki/Lisp_(programming_language)#cite_note-1.5_manual-16)
+[<img align="left" alt="BCPL" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/bcpl.svg" />](https://en.wikipedia.org/wiki/BCPL)
+[<img align="left" alt="Algol W" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/algol.svg" />](https://en.wikipedia.org/wiki/ALGOL_W)
+[<img align="left" alt="Fortran" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/fortran.svg" />](https://fortran-lang.org/)
+[<img align="left" alt="APL" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/apl_icon_132641.svg" />](https://en.wikipedia.org/wiki/APL_(programming_language))
 
 <p /><br /><br /><br />
 
