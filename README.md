@@ -91,7 +91,7 @@
 
 <p /><br /><br /><br />
 
-### Online Presense
+### Online Presence
 
 [<img align="left" alt="Gitter" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/gitter.svg" />](https://gitter.im/Microsoft/extendvs)
 [<img align="left" alt="Reddit" height="26px" src="https://raw.githubusercontent.com/kaby76/icons/master/reddit.svg" />](https://www.reddit.com/user/kendomino)
