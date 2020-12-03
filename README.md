@@ -5,7 +5,11 @@
 
 ## Current Work
 
-- Scraping the [online Java language spec grammar](https://docs.oracle.com/javase/specs/jls/se14/html/index.html), then using [Antlrvsix][antlrvsix] to perform automated transformations to optimize the grammar for parsing speed with [Antlr](https://www.antlr.org).
+- [Antlrvsix](https://github.com/kaby76/AntlrVSIX), an extension for VS2019, VSCode, Emacs.
+- [Trash](https://github.com/kaby76/AntlrVSIX/Trash), a command-line shell for CFG development (currently part of AntlrVSIX, but soon to be partitioned off).
+- Scraping the CFG from the [online Java language spec](https://docs.oracle.com/javase/specs/jls/se14/html/index.html)
+- Scraping the CFG from the [online Dart language spec](https://github.com/dart-lang/language/blob/master/specification/dartLangSpec.tex).
+- Performing automated transformations to optimize the grammar for parsing speed with [Antlr](https://www.antlr.org).
 
 ### Connect with me:
 
