@@ -9,7 +9,8 @@
 - [Trash](https://github.com/kaby76/AntlrVSIX/Trash), a command-line shell for CFG development (currently part of AntlrVSIX, but soon to be partitioned off).
 - Scraping the CFG from the [online Java language spec](https://docs.oracle.com/javase/specs/jls/se14/html/index.html)
 - Scraping the CFG from the [online Dart language spec](https://github.com/dart-lang/language/blob/master/specification/dartLangSpec.tex).
-- Performing automated transformations to optimize the grammar for parsing speed with [Antlr](https://www.antlr.org).
+- Automating transformations to optimize the Java grammar for parsing speed.
+- Implementing [Zhang-Shasha tree diff algorithm in C#](https://github.com/kaby76/ZhangShashaCSharp), to be applied in grammar diff utility.
 
 ### Connect with me:
 
