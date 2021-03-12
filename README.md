@@ -5,6 +5,7 @@
 
 ## Current Work
 
+- [StringTemplate4](https://github.com/kaby76/stringtemplate4cs), updating.
 - [Antlr](https://github.com/antlr/antlr4), fixing bugs.
 - [Antlr grammars](https://github.com/antlr/grammars-v4), adding CI for non-Java targets.
 - [dotnet-antlr](https://github.com/kaby76/Antlr4BuildTasks/tree/master/dotnet-antlr), a template-driven generator for Antlr programs.
