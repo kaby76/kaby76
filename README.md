@@ -5,12 +5,12 @@
 
 ## Current Work
 
+- [Trash](https://github.com/kaby76/Domemtech.Trash), a collection of OS-independent, Ginsu-like knives for Antlr grammars.
 - [StringTemplate4](https://github.com/kaby76/stringtemplate4cs), updating.
 - [Antlr](https://github.com/antlr/antlr4), fixing bugs.
 - [Antlr grammars](https://github.com/antlr/grammars-v4), adding CI for non-Java targets.
-- [dotnet-antlr](https://github.com/kaby76/Antlr4BuildTasks/tree/master/dotnet-antlr), a template-driven generator for Antlr programs.
 - [Antlrvsix](https://github.com/kaby76/AntlrVSIX), an extension for VS2019, VSCode, Emacs.
-- [Trash](https://github.com/kaby76/AntlrVSIX/tree/master/Trash), a command-line shell for CFG development (currently part of AntlrVSIX, but soon to be partitioned off).
+
 - Scraping the CFG from the [online Java language spec](https://docs.oracle.com/javase/specs/jls/se14/html/index.html)
 - Scraping the CFG from the [online Dart language spec](https://github.com/dart-lang/language/blob/master/specification/dartLangSpec.tex).
 - Automating transformations to optimize the Java grammar for parsing speed.
