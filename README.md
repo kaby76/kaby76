@@ -1,7 +1,6 @@
 ### Ken Domino - [kaby76][github], [The Coding Gorilla][codinggorilla]
 
 [![Codinggorilla](https://img.shields.io/website?label=codinggorilla.com&style=for-the-badge&url=http%3A%2F%2Fcodinggorilla.com)](http://codinggorilla.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/KenDomino?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=KenDomino)
 
 ## Current Work
 
