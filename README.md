@@ -4,7 +4,7 @@
 
 ## Current Work
 
-- [Trash](https://github.com/kaby76/Domemtech.Trash), a collection of OS-independent, Ginsu-like knives for Antlr grammars.
+- [Trash](https://github.com/kaby76/Domemtech.Trash), a collection of OS-independent refactoring tools for Antlr grammars.
 - [StringTemplate4](https://github.com/kaby76/stringtemplate4cs), updating.
 - [Antlr](https://github.com/antlr/antlr4), fixing bugs.
 - [Antlr grammars](https://github.com/antlr/grammars-v4), adding CI for non-Java targets.
