@@ -8,6 +8,7 @@
 - [StringTemplate4](https://github.com/kaby76/stringtemplate4cs), updating.
 - [Antlr](https://github.com/antlr/antlr4), fixing bugs.
 - [Antlr grammars](https://github.com/antlr/grammars-v4), adding CI for non-Java targets.
+- [uni-vscode](https://github.com/kaby76/uni-vscode), a universal VSCode extension useful in testing any Antlr4 grammar.
 - [Antlrvsix](https://github.com/kaby76/AntlrVSIX), an extension for VS2019, VSCode, Emacs.
 
 - Scraping the CFG from the [online Java language spec](https://docs.oracle.com/javase/specs/jls/se14/html/index.html)
