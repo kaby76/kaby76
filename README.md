@@ -5,7 +5,7 @@
 ## Current Work
 
 
-- [Trash on the Web](https://github.com/kaby76/Domemtech.Trash/web), a website for the static analysis parser generator grammars, including Antlr2, 3, 4, Bison, EBNF, ABNF, Lark, Pest, etc.
+- [Trash on the Web](https://github.com/kaby76/Domemtech.Trash/tree/main/web), a website for the static analysis parser generator grammars, including Antlr2, 3, 4, Bison, EBNF, ABNF, Lark, Pest, etc.
 - [Trash](https://github.com/kaby76/Domemtech.Trash), a collection of tools for the static analysis and refactoring of Antlr grammars. ([TrashBase](https://github.com/kaby76/Domemtech.TrashBase) contains main functionality of the tools.)
 - [StringTemplate4](https://github.com/kaby76/stringtemplate4cs), updating.
 - [Antlr](https://github.com/antlr/antlr4), fixing bugs.
