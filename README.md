@@ -1,18 +1,18 @@
-### Ken Domino - [kaby76][github], [The Coding Gorilla][codinggorilla]
+### Ken Domino - [kaby76][github]
 
-[![Codinggorilla](https://img.shields.io/website?label=codinggorilla.com&style=for-the-badge&url=http%3A%2F%2Fcodinggorilla.com)](http://codinggorilla.com)
+[![Codinggorilla -- down for rebuilding](https://img.shields.io/website?label=codinggorilla.com&style=for-the-badge&url=http%3A%2F%2Fcodinggorilla.com)](http://codinggorilla.com)
 
 ## Current Work
 
 
-- [Trash on the Web](https://github.com/kaby76/Domemtech.Trash/tree/main/web), a website for the static analysis parser generator grammars, including Antlr2, 3, 4, Bison, EBNF, ABNF, Lark, Pest, etc.
 - [Trash](https://github.com/kaby76/Domemtech.Trash), a collection of tools for the static analysis and refactoring of Antlr grammars. ([TrashBase](https://github.com/kaby76/Domemtech.TrashBase) contains main functionality of the tools.)
+- Scraping the CFG from the [ISO C++ Specs](https://github.com/cplusplus/draft/blob/main/papers/wd-index.md)
+- [Antlr grammars](https://github.com/antlr/grammars-v4), adding CI for non-Java targets.
+- [Trash on the Web](https://github.com/kaby76/Domemtech.Trash/tree/main/web), a website for the static analysis parser generator grammars, including Antlr2, 3, 4, Bison, EBNF, ABNF, Lark, Pest, etc.
 - [StringTemplate4](https://github.com/kaby76/stringtemplate4cs), updating.
 - [Antlr](https://github.com/antlr/antlr4), fixing bugs.
-- [Antlr grammars](https://github.com/antlr/grammars-v4), adding CI for non-Java targets.
 - [uni-vscode](https://github.com/kaby76/uni-vscode), a universal VSCode extension useful in testing any Antlr4 grammar.
 - [Antlrvsix](https://github.com/kaby76/AntlrVSIX), an extension for VS2019, VSCode, Emacs.
-
 - Scraping the CFG from the [online Java language spec](https://docs.oracle.com/javase/specs/jls/se14/html/index.html)
 - Scraping the CFG from the [online Dart language spec](https://github.com/dart-lang/language/blob/master/specification/dartLangSpec.tex).
 - Automating transformations to optimize the Java grammar for parsing speed.
