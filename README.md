@@ -16,7 +16,7 @@
 - [uni-vscode](https://github.com/kaby76/uni-vscode), a universal VSCode extension useful in testing any Antlr4 grammar.
 - [Antlrvsix](https://github.com/kaby76/AntlrVSIX), an extension for VS2019, VSCode, Emacs.
 - Scraping the CFG from the [online Java language spec](https://docs.oracle.com/javase/specs/jls/se14/html/index.html)
-- Scraping the CFG from the [online Dart language spec](https://github.com/dart-lang/language/blob/master/specification/dartLangSpec.tex).
+- Scraping the CFG from the [online Dart language spec](https://github.com/kaby76/ScrapeDartSpec).
 - Automating transformations to optimize the Java grammar for parsing speed.
 - Implementing [Zhang-Shasha tree diff algorithm in C#](https://github.com/kaby76/ZhangShashaCSharp), to be applied in grammar diff utility.
 
