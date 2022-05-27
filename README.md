@@ -5,7 +5,7 @@
 ## Current Work
 
 
-- [Antlr4BuildTasks](https://github.com/kaby76/Antlr4BuildTasks), build rules for C# Antlr4 programs using "Official" Antlr tool and runtime.
+- [Antlr4BuildTasks](https://github.com/kaby76/Antlr4BuildTasks), build rules for C# Antlr4 programs using Antlr tool jar and Java.
 - [Antlr4Templates](https://github.com/kaby76/Antlr4Templates), templates for simple Antlr4 console programs.
 - [Trash](https://github.com/kaby76/Domemtech.Trash), a collection of tools for the static analysis and refactoring of Antlr grammars. ([TrashBase](https://github.com/kaby76/Domemtech.TrashBase) contains main functionality of the tools.)
 - Scraping the CFG from the [ISO C++ Specs](https://github.com/cplusplus/draft/blob/main/papers/wd-index.md)
