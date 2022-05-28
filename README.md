@@ -5,6 +5,7 @@
 ## Current Work
 
 
+- Scraping the CFG from the [online Dart language spec](https://github.com/kaby76/ScrapeDartSpec).
 - [Antlr4BuildTasks](https://github.com/kaby76/Antlr4BuildTasks), build rules for C# Antlr4 programs using Antlr tool jar and Java.
 - [Antlr4Templates](https://github.com/kaby76/Antlr4Templates), templates for simple Antlr4 console programs.
 - [Trash](https://github.com/kaby76/Domemtech.Trash), a collection of tools for the static analysis and refactoring of Antlr grammars. ([TrashBase](https://github.com/kaby76/Domemtech.TrashBase) contains main functionality of the tools.)
@@ -16,7 +17,6 @@
 - [uni-vscode](https://github.com/kaby76/uni-vscode), a universal VSCode extension useful in testing any Antlr4 grammar.
 - [Antlrvsix](https://github.com/kaby76/AntlrVSIX), an extension for VS2019, VSCode, Emacs.
 - Scraping the CFG from the [online Java language spec](https://docs.oracle.com/javase/specs/jls/se14/html/index.html)
-- Scraping the CFG from the [online Dart language spec](https://github.com/kaby76/ScrapeDartSpec).
 - Automating transformations to optimize the Java grammar for parsing speed.
 - Implementing [Zhang-Shasha tree diff algorithm in C#](https://github.com/kaby76/ZhangShashaCSharp), to be applied in grammar diff utility.
 
