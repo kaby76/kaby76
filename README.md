@@ -5,7 +5,7 @@
 ## Current Work
 
 
-- Scraping the CFG from the [online Dart language spec](https://github.com/kaby76/ScrapeDartSpec).
+- [Scraping the Antlr grammar from the Dart language Specification](https://github.com/kaby76/ScrapeDartSpec).
 - [Antlr4BuildTasks](https://github.com/kaby76/Antlr4BuildTasks), build rules for C# Antlr4 programs using Antlr tool jar and Java.
 - [Antlr4Templates](https://github.com/kaby76/Antlr4Templates), templates for simple Antlr4 console programs.
 - [Trash](https://github.com/kaby76/Domemtech.Trash), a collection of tools for the static analysis and refactoring of Antlr grammars. ([TrashBase](https://github.com/kaby76/Domemtech.TrashBase) contains main functionality of the tools.)
