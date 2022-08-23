@@ -5,12 +5,12 @@
 ## Current Work
 
 
+- [Trash](https://github.com/kaby76/Domemtech.Trash), a collection of tools for Antlr4 grammar analysis, parsing, and refactoring.
+- [Antlr grammars](https://github.com/antlr/grammars-v4), adding CI for non-Java targets.
 - [Scraping the Antlr grammar from the Dart language Specification](https://github.com/kaby76/ScrapeDartSpec).
 - [Antlr4BuildTasks](https://github.com/kaby76/Antlr4BuildTasks), build rules for C# Antlr4 programs using Antlr tool jar and Java.
 - [Antlr4Templates](https://github.com/kaby76/Antlr4Templates), templates for simple Antlr4 console programs.
-- [Trash](https://github.com/kaby76/Domemtech.Trash), a collection of tools for Antlr4 grammar analysis, parsing, and refactoring.
 - Scraping the CFG from the [ISO C++ Specs](https://github.com/cplusplus/draft/blob/main/papers/wd-index.md)
-- [Antlr grammars](https://github.com/antlr/grammars-v4), adding CI for non-Java targets.
 - [Trash on the Web](https://github.com/kaby76/Domemtech.Trash/tree/main/web), a website for the static analysis parser generator grammars, including Antlr2, 3, 4, Bison, EBNF, ABNF, Lark, Pest, etc.
 - [StringTemplate4](https://github.com/kaby76/stringtemplate4cs), updating.
 - [Antlr](https://github.com/antlr/antlr4), fixing bugs.
