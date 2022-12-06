@@ -127,6 +127,3 @@
 [codinggorilla]: http://codinggorilla.com
 [twitter]: https://twitter.com/KenDomino
 [linkedin]: https://linkedin.com/in/kenneth-e-domino
-
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/kaby76/langs)](https://githubtrends.io)
