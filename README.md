@@ -129,4 +129,4 @@
 [linkedin]: https://linkedin.com/in/kenneth-e-domino
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/kaby76/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/kaby76/langs)](https://githubtrends.io)
