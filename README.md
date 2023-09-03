@@ -6,6 +6,7 @@
 
 
 - [Trash](https://github.com/kaby76/Domemtech.Trash), a collection of command-line tools that extend Antlr4 with parsing analysis, grammar analysis, parse tree refactoring, and parsing driver template generation.
+- [g4-checks](https://github.com/kaby76/g4-checks), a collection of command-line scripts that use Trash.
 - [Antlr grammars](https://github.com/antlr/grammars-v4), adding CI for non-Java targets.
 - [Scraping the Antlr grammar from the Dart language Specification](https://github.com/kaby76/ScrapeDartSpec).
 - [Antlr4BuildTasks](https://github.com/kaby76/Antlr4BuildTasks), build rules for C# Antlr4 programs using Antlr tool jar and Java.
