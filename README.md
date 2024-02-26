@@ -18,8 +18,6 @@
 - [Antlr](https://github.com/antlr/antlr4), fixing bugs.
 - [Antlr4 PHP runtime](https://github.com/antlr/antlr-php-runtime), fixing bugs.
 - [Antlr4-lab](https://github.com/antlr/antlr4-lab), suggesting new features.
-- [uni-vscode](https://github.com/kaby76/uni-vscode), a universal VSCode extension useful in testing any Antlr4 grammar.
-- [Antlrvsix](https://github.com/kaby76/AntlrVSIX), an extension for VS2019, VSCode, Emacs.
 - [Scraping the grammar for Java](https://github.com/kaby76/ScrapeJavaSpec) from the [online Java language spec](https://docs.oracle.com/javase/specs/jls/se14/html/index.html)
 - Automating transformations to optimize the Java grammar for parsing speed.
 - Implementing [Zhang-Shasha tree diff algorithm in C#](https://github.com/kaby76/ZhangShashaCSharp), to be applied in grammar diff utility.
