@@ -4,8 +4,6 @@
 
 ## Current Work
 
-
-- [Antlr5-Specs](https://github.com/antlr/antlr5-specs), [Antlr5](https://github.com/antlr/antlr5), the next version of Antlr.
 - [Trash](https://github.com/kaby76/Trash), a collection of command-line tools that extend Antlr4 with parsing analysis, grammar analysis, parse tree refactoring, and parsing driver template generation.
 - [g4-scripts](https://github.com/kaby76/g4-scripts), a collection of command-line scripts that use Trash.
 - [Antlr grammars](https://github.com/antlr/grammars-v4), adding CI for non-Java targets.
