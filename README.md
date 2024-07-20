@@ -5,6 +5,7 @@
 ## Current Work
 
 - [Trash](https://github.com/kaby76/Trash), a collection of command-line tools that extend Antlr4 with parsing analysis, grammar analysis, parse tree refactoring, and parsing driver template generation.
+- [fortran](https://github.com/kaby76/fortran) -- scraping the ISO Fortran Spec EBNF and converting/fixing into a working Antlr4 grammar.
 - [g4-scripts](https://github.com/kaby76/g4-scripts), a collection of command-line scripts that use Trash.
 - [Antlr grammars](https://github.com/antlr/grammars-v4), adding CI for non-Java targets.
 - [Scraping the Antlr grammar from the Dart language Specification](https://github.com/kaby76/ScrapeDartSpec).
