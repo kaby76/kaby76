@@ -12,7 +12,6 @@
 - [Antlr4BuildTasks](https://github.com/kaby76/Antlr4BuildTasks), build rules for C# Antlr4 programs using Antlr tool jar and Java.
 - [Antlr4Templates](https://github.com/kaby76/Antlr4Templates), templates for simple Antlr4 console programs.
 - Scraping the CFG from the [ISO C++ Specs](https://github.com/cplusplus/draft/blob/main/papers/wd-index.md)
-- [Trash on the Web](https://github.com/kaby76/Trash/tree/main/web), a website for the static analysis parser generator grammars, including Antlr2, 3, 4, Bison, EBNF, ABNF, Lark, Pest, etc.
 - [StringTemplate4](https://github.com/kaby76/stringtemplate4cs), updating.
 - [Antlr](https://github.com/antlr/antlr4), fixing bugs.
 - [Antlr4 PHP runtime](https://github.com/antlr/antlr-php-runtime), fixing bugs.
