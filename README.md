@@ -11,7 +11,7 @@
 - [Scraping the Antlr grammar from the Dart language Specification](https://github.com/kaby76/ScrapeDartSpec).
 - [Antlr4BuildTasks](https://github.com/kaby76/Antlr4BuildTasks), build rules for C# Antlr4 programs using Antlr tool jar and Java.
 - [Antlr4Templates](https://github.com/kaby76/Antlr4Templates), templates for simple Antlr4 console programs.
-- Scraping the CFG from the [ISO C++ Specs](https://github.com/cplusplus/draft/blob/main/papers/wd-index.md)
+- [Scraping the C++ grammar](https://github.com/kaby76/scrape-c-plus-plus-spec) from the [ISO C++ Specs](https://github.com/cplusplus/draft/blob/main/papers/wd-index.md)
 - [StringTemplate4](https://github.com/kaby76/stringtemplate4cs), updating.
 - [Antlr](https://github.com/antlr/antlr4), fixing bugs.
 - [Antlr4 PHP runtime](https://github.com/antlr/antlr-php-runtime), fixing bugs.
