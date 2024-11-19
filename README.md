@@ -2,6 +2,8 @@
 
 [![Codinggorilla -- down for rebuilding](https://img.shields.io/website?label=codinggorilla.com&style=for-the-badge&url=http%3A%2F%2Fcodinggorilla.com)](http://codinggorilla.com)
 
+[![kaby github stats](https://github-readme-stats.vercel.app/api?username=kaby76&count_private=true&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Current Work
 
 - [Trash](https://github.com/kaby76/Trash), a collection of command-line tools that extend Antlr4 with parsing analysis, grammar analysis, parse tree refactoring, and parsing driver template generation.
