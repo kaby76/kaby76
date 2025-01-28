@@ -9,10 +9,10 @@
 - [Trash](https://github.com/kaby76/Trash), a collection of command-line tools that extend Antlr4 with parsing analysis, grammar analysis, parse tree refactoring, and parsing driver template generation.
 - [Antlr grammars](https://github.com/antlr/grammars-v4), adding CI for non-Java targets.
 - [g4-scripts](https://github.com/kaby76/g4-scripts), a collection of command-line scripts that use Trash.
-- [Scraping the Fortran grammar](https://github.com/kaby76/fortran) from [the ISO spec](https://www.iso.org/standard/82170.html).
-- [Scraping the Dart grammar](https://github.com/kaby76/ScrapeDartSpec) from [the spec](https://dart.dev/resources/language/spec).
-- [Scraping the C++ grammar](https://github.com/kaby76/scrape-c-plus-plus-spec) from [the ISO spec](https://github.com/cplusplus/draft/blob/main/papers/wd-index.md)
-- [Scraping the Java grammar](https://github.com/kaby76/ScrapeJavaSpec) from [the Java Language Spec](https://docs.oracle.com/javase/specs/jls/se14/html/index.html)
+- [Scraping the Fortran grammar](https://github.com/kaby76/fortran) from the [ISO/IEC 1539-1 Spec](https://www.iso.org/standard/82170.html).
+- [Scraping the Dart grammar](https://github.com/kaby76/ScrapeDartSpec) from the [Dart Language Spec](https://dart.dev/resources/language/spec).
+- [Scraping the C++ grammar](https://github.com/kaby76/scrape-c-plus-plus-spec) from the [ISO/IEC 14882 Spec](https://www.iso.org/standard/83626.html) or [draft](https://github.com/cplusplus/draft/blob/main/papers/wd-index.md)
+- [Scraping the Java grammar](https://github.com/kaby76/ScrapeJavaSpec) from the [Java Language Spec](https://docs.oracle.com/javase/specs/jls/se14/html/index.html)
 - Automating transformations to optimize the Java grammar for parsing speed.
 
 ### Connect with me:
