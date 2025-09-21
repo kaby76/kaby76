@@ -6,6 +6,7 @@
 
 ## Current Work
 
+- [dk.brics](https://github.com/kaby76/dk.brics), study in the dk.brics code for analysis of grammars.
 - [Trash](https://github.com/kaby76/Trash), a collection of command-line tools that extend Antlr4 with parsing analysis, grammar analysis, parse tree refactoring, and parsing driver template generation.
 - [Antlr grammars](https://github.com/antlr/grammars-v4), adding CI for non-Java targets.
 - [g4-scripts](https://github.com/kaby76/g4-scripts), a collection of command-line scripts that use Trash.
