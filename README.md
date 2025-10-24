@@ -6,6 +6,7 @@
 
 ## Current Work
 
+- [antlr4rust](https://github.com/antlr4rust/antlr4).
 - [earley-using-antlr-tables](https://github.com/kaby76/earley-using-antlr-tables), adding in Earley parser for an Antlr4 grammar.
 - [dk.brics](https://github.com/kaby76/dk.brics), study in the dk.brics code for analysis of grammars.
 - [Trash](https://github.com/kaby76/Trash), a collection of command-line tools that extend Antlr4 with parsing analysis, grammar analysis, parse tree refactoring, and parsing driver template generation.
