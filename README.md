@@ -114,13 +114,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="kaby76's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kaby76&show_icons=true&hide_border=true" />
-
-</details>
-
 [github]: https://github.com/kaby76
 [antlrvsix]: https://github.com/kaby76/AntlrVSIX
 [codinggorilla]: http://codinggorilla.com
