@@ -7,6 +7,9 @@
 ## Current Work
 
 - [antlr4rust](https://github.com/antlr4rust/antlr4).
+- [antlr-ng](https://github.com/antlr-ng/antlr-ng)
+- [antlr4](https://github.com/antlr/antlr4)
+-----
 - [earley-using-antlr-tables](https://github.com/kaby76/earley-using-antlr-tables), adding in Earley parser for an Antlr4 grammar.
 - [dk.brics](https://github.com/kaby76/dk.brics), study in the dk.brics code for analysis of grammars.
 - [Trash](https://github.com/kaby76/Trash), a collection of command-line tools that extend Antlr4 with parsing analysis, grammar analysis, parse tree refactoring, and parsing driver template generation.
@@ -17,8 +20,6 @@
 - [Scraping the C++ grammar](https://github.com/kaby76/scrape-c-plus-plus-spec) from the [ISO/IEC 14882 Spec](https://www.iso.org/standard/83626.html) or [draft](https://github.com/cplusplus/draft/blob/main/papers/wd-index.md)
 - [Scraping the Java grammar](https://github.com/kaby76/ScrapeJavaSpec) from the [Java Language Spec](https://docs.oracle.com/javase/specs/index.html)
 - Automating transformations to optimize the Java grammar for parsing speed.
-- [antlr-ng](https://github.com/antlr-ng/antlr-ng)
-- [antlr4](https://github.com/antlr/antlr4)
 
 ### Connect with me:
 
