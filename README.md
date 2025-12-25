@@ -4,7 +4,7 @@
 
 [![Github stats](https://github-readme-stats-fast.vercel.app/api?username=kaby76)](https://github.com/kaby76/github-readme-stats-fast)
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kaby76)](https://github.com/kaby76/github-readme-stats-fast)
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=kaby76&theme=radical)](https://github.com/kaby76/github-readme-stats-fast)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=kaby76)](https://github.com/kaby76/github-readme-stats-fast)
 
 ## Current Work
 
