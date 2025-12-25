@@ -2,9 +2,9 @@
 
 [![Codinggorilla -- down for rebuilding](https://img.shields.io/website?label=codinggorilla.com&style=for-the-badge&url=http%3A%2F%2Fcodinggorilla.com)](http://codinggorilla.com)
 
-[![kaby github stats](https://github-readme-stats-fast.vercel.app/api?username=kaby76)](https://github.com/kaby76/github-readme-stats-fast)
+[![Github stats](https://github-readme-stats-fast.vercel.app/api?username=kaby76)](https://github.com/kaby76/github-readme-stats-fast)
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kaby76)](https://github.com/kaby76/github-readme-stats-fast)
-
+[![WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=kaby76)](https://github.com/kaby76/github-readme-stats-fast)
 
 ## Current Work
 
