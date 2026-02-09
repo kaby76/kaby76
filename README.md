@@ -19,6 +19,7 @@
 - [Scraping the Java grammar](https://github.com/kaby76/ScrapeJavaSpec) from the [Java Language Spec](https://docs.oracle.com/javase/specs/index.html)
 - Automating transformations to optimize the Java grammar for parsing speed.
 -----
+- [pldb](https://github.com/kaby76/pldb), http://pldb.info
 - [Antlr grammars](https://github.com/antlr/grammars-v4)
 - [antlr4rust](https://github.com/antlr4rust/antlr4)
 - [antlr-ng](https://github.com/antlr-ng/antlr-ng)
