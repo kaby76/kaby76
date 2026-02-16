@@ -8,7 +8,7 @@
 
 ## Current Work
 
-- [Ada 2012 grammar](https://github.com/kaby76/grammars-v4/tree/84390b18d54c982f2b763a262aed86b49bb696b9/ada/ada2012).
+- [Ada 2012 grammar](https://github.com/antlr/grammars-v4/tree/master/ada/ada2012).
 - [C grammar](https://github.com/antlr/grammars-v4/tree/master/c), updating to ISO ISO/IEC 9899:2024.
 - [earley-using-antlr-tables](https://github.com/kaby76/earley-using-antlr-tables), adding in Earley parser for an Antlr4 grammar.
 - [dk.brics](https://github.com/kaby76/dk.brics), study in the dk.brics code for analysis of grammars.
