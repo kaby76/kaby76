@@ -9,6 +9,7 @@
 ## Current Work
 
 - [Analysis of Claude's C Compiler parser and language](https://github.com/kaby76/claudes-c-compiler).
+- [Ada 2022 grammar](https://github.com/antlr/grammars-v4/tree/master/ada/ada2022).
 - [Ada 2012 grammar](https://github.com/antlr/grammars-v4/tree/master/ada/ada2012).
 - [C23 grammar](https://github.com/antlr/grammars-v4/tree/master/c).
 - [earley-using-antlr-tables](https://github.com/kaby76/earley-using-antlr-tables), adding in Earley parser for an Antlr4 grammar.
