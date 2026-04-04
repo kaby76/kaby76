@@ -9,7 +9,7 @@
 ## Current Work
 
 - [Evaluating ECMA 334](https://github.com/dotnet/csharpstandard/issues?q=is%3Aissue%20author%3Akaby76)
-- [C# grammar, v7](https://github.com/antlr/grammars-v4/tree/master/csharp/v7).
+- [C# grammar, v7](https://github.com/antlr/grammars-v4/tree/master/csharp/v7), [v8](https://github.com/antlr/grammars-v4/tree/master/csharp/v8-spec).
 - [Ada 2022 grammar](https://github.com/antlr/grammars-v4/tree/master/ada/ada2022).
 - [Analysis of Claude's C Compiler parser and language](https://github.com/kaby76/claudes-c-compiler).
 - [Ada 2012 grammar](https://github.com/antlr/grammars-v4/tree/master/ada/ada2012).
