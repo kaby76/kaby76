@@ -7,7 +7,7 @@
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=kaby76)](https://github.com/kaby76/github-readme-stats-fast)
 
 ## Current Work
-
+- [Trash](https://github.com/kaby76/Trash), a collection of command-line tools for parsing, parse tree analysis and refactoring, grammar analysis and refactoring, and parser application templates.
 - [Scala 3 grammar](https://github.com/antlr/grammars-v4/tree/master/scala/scala3).
 - [Evaluating ECMA 334](https://github.com/dotnet/csharpstandard/issues?q=is%3Aissue%20author%3Akaby76)
 - [C# grammar, v7](https://github.com/antlr/grammars-v4/tree/master/csharp/v7), [v8](https://github.com/antlr/grammars-v4/tree/master/csharp/v8-spec).
@@ -17,7 +17,6 @@
 - [C23 grammar](https://github.com/antlr/grammars-v4/tree/master/c).
 - [earley-using-antlr-tables](https://github.com/kaby76/earley-using-antlr-tables), adding in Earley parser for an Antlr4 grammar.
 - [dk.brics](https://github.com/kaby76/dk.brics), study in the dk.brics code for analysis of grammars.
-- [Trash](https://github.com/kaby76/Trash), a collection of command-line tools that extend Antlr4 with parsing analysis, grammar analysis, parse tree refactoring, and parsing driver template generation.
 - [g4-scripts](https://github.com/kaby76/g4-scripts), a collection of command-line scripts that use Trash.
 - [Scraping the Fortran grammar](https://github.com/kaby76/fortran) from the [ISO/IEC 1539-1 Spec](https://www.iso.org/standard/82170.html).
 - [Scraping the Dart grammar](https://github.com/kaby76/ScrapeDartSpec) from the [Dart Language Spec](https://dart.dev/resources/language/spec).
