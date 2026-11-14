@@ -2,10 +2,6 @@
 
 [![Codinggorilla -- down for rebuilding](https://img.shields.io/website?label=codinggorilla.com&style=for-the-badge&url=http%3A%2F%2Fcodinggorilla.com)](http://codinggorilla.com)
 
-[![Github stats](https://github-readme-stats-fast.vercel.app/api?username=kaby76)](https://github.com/kaby76/github-readme-stats-fast)
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kaby76)](https://github.com/kaby76/github-readme-stats-fast)
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=kaby76)](https://github.com/kaby76/github-readme-stats-fast)
-
 ## Current Work
 - [Trash](https://github.com/kaby76/Trash), a collection of command-line tools for parsing, parse tree analysis and refactoring, grammar analysis and refactoring, and parser application templates.
 - [Scala 3 grammar](https://github.com/antlr/grammars-v4/tree/master/scala/scala3).
