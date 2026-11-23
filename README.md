@@ -4,21 +4,9 @@
 
 ## Current Work
 - [Trash](https://github.com/kaby76/Trash), a collection of command-line tools for parsing, parse tree analysis and refactoring, grammar analysis and refactoring, and parser application templates.
-- [Scala 3 grammar](https://github.com/antlr/grammars-v4/tree/master/scala/scala3).
-- [Evaluating ECMA 334](https://github.com/dotnet/csharpstandard/issues?q=is%3Aissue%20author%3Akaby76)
-- [C# grammar, v7](https://github.com/antlr/grammars-v4/tree/master/csharp/v7), [v8](https://github.com/antlr/grammars-v4/tree/master/csharp/v8-spec).
-- [Ada 2022 grammar](https://github.com/antlr/grammars-v4/tree/master/ada/ada2022).
 - [Analysis of Claude's C Compiler parser and language](https://github.com/kaby76/claudes-c-compiler).
-- [Ada 2012 grammar](https://github.com/antlr/grammars-v4/tree/master/ada/ada2012).
-- [C23 grammar](https://github.com/antlr/grammars-v4/tree/master/c).
-- [earley-using-antlr-tables](https://github.com/kaby76/earley-using-antlr-tables), adding in Earley parser for an Antlr4 grammar.
 - [dk.brics](https://github.com/kaby76/dk.brics), study in the dk.brics code for analysis of grammars.
 - [g4-scripts](https://github.com/kaby76/g4-scripts), a collection of command-line scripts that use Trash.
-- [Scraping the Fortran grammar](https://github.com/kaby76/fortran) from the [ISO/IEC 1539-1 Spec](https://www.iso.org/standard/82170.html).
-- [Scraping the Dart grammar](https://github.com/kaby76/ScrapeDartSpec) from the [Dart Language Spec](https://dart.dev/resources/language/spec).
-- [Scraping the C++ grammar](https://github.com/kaby76/scrape-c-plus-plus-spec) from the [ISO/IEC 14882 Spec](https://www.iso.org/standard/83626.html) or [draft](https://github.com/cplusplus/draft/blob/main/papers/wd-index.md)
-- [Scraping the Java grammar](https://github.com/kaby76/ScrapeJavaSpec) from the [Java Language Spec](https://docs.oracle.com/javase/specs/index.html)
-- Automating transformations to optimize the Java grammar for parsing speed.
 -----
 - https://github.com/Programming-Language-DataBase/pldb, http://pldb.info
 - [Antlr grammars](https://github.com/antlr/grammars-v4)
