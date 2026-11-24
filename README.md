@@ -10,8 +10,6 @@
 -----
 - https://github.com/Programming-Language-DataBase/pldb, http://pldb.info
 - [Antlr grammars](https://github.com/antlr/grammars-v4)
-- [antlr4rust](https://github.com/antlr4rust/antlr4)
-- [antlr-ng](https://github.com/antlr-ng/antlr-ng)
 - [antlr4](https://github.com/antlr/antlr4)
 - [antlr4buildtasks](https://github.com/kaby76/Antlr4BuildTasks)
 - [awesome-antlr](https://github.com/kaby76/awesome-antlr)
